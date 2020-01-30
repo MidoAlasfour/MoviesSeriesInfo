@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MoviesSeriesInfo/static/css/main.01690f44.chunk.css",
-    "main.js": "/MoviesSeriesInfo/static/js/main.fa3b8d67.chunk.js",
-    "main.js.map": "/MoviesSeriesInfo/static/js/main.fa3b8d67.chunk.js.map",
+    "main.js": "/MoviesSeriesInfo/static/js/main.e77596fd.chunk.js",
+    "main.js.map": "/MoviesSeriesInfo/static/js/main.e77596fd.chunk.js.map",
     "runtime-main.js": "/MoviesSeriesInfo/static/js/runtime-main.1b6f37a9.js",
     "runtime-main.js.map": "/MoviesSeriesInfo/static/js/runtime-main.1b6f37a9.js.map",
     "static/js/2.e2f3b5ec.chunk.js": "/MoviesSeriesInfo/static/js/2.e2f3b5ec.chunk.js",
     "static/js/2.e2f3b5ec.chunk.js.map": "/MoviesSeriesInfo/static/js/2.e2f3b5ec.chunk.js.map",
     "index.html": "/MoviesSeriesInfo/index.html",
-    "precache-manifest.93bccc81a438a5c8c84f49c221c001f9.js": "/MoviesSeriesInfo/precache-manifest.93bccc81a438a5c8c84f49c221c001f9.js",
+    "precache-manifest.ffc009b3c1323c032cb055d8afebee04.js": "/MoviesSeriesInfo/precache-manifest.ffc009b3c1323c032cb055d8afebee04.js",
     "service-worker.js": "/MoviesSeriesInfo/service-worker.js",
     "static/css/main.01690f44.chunk.css.map": "/MoviesSeriesInfo/static/css/main.01690f44.chunk.css.map",
     "static/js/2.e2f3b5ec.chunk.js.LICENSE": "/MoviesSeriesInfo/static/js/2.e2f3b5ec.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1b6f37a9.js",
     "static/js/2.e2f3b5ec.chunk.js",
     "static/css/main.01690f44.chunk.css",
-    "static/js/main.fa3b8d67.chunk.js"
+    "static/js/main.e77596fd.chunk.js"
   ]
 }
